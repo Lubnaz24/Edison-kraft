@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Copy using HTTP link or download Zip.
+Unzip the folder and run index.html to open the website in browser.
